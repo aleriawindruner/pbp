@@ -64,6 +64,7 @@ This project is aimed to provide a user panel to access FREE, SECURE, PRIVATE pr
 |   **AmneziaVPN**    |                 |        :x:         | :heavy_check_mark: |
 |    **WG Tunnel**    |                 |        :x:         | :heavy_check_mark: |
 
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/USERNAME/REPOSITORY)
 ---
 
 ### Special Thanks
